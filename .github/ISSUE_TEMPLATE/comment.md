@@ -1,13 +1,13 @@
 ---
 name: Comment
 about: Article comments - 文章评论
-title: 这里填写你评论的文章的名称 · 云游君的小站
+title: 这里填写你评论的文章的名称 · 汪广鑫的小站
 labels: comment
 assignees: ''
 
 ---
 
-文章链接：<https://www.yunyoujun.cn/>
+文章链接：<https://wang-guangxin.github.io/>
 
 <!-- 
 - 发起前请先检查是否已存在该文章 Issue。请不要重复建立相同 Issue。
